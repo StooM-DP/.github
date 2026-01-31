@@ -1,1 +1,3 @@
-StooM : D & P (StooM: Download and Play) is an application related to the game DooM. The features of this application include downloading WADs, managing them in a personal library, playing in single-player mode with multiple source ports, and the ability to play multiplayer via GZDooom.
+StooM: D & P (StooM: Download and Play) is an application related to the game DooM.
+The features of this application include downloading WADs, managing them in a personal library, playing in single-player mode with multiple source ports, and allowing you to play multiplayer games through GZDoom.
+This app is built with Python and uses PySide6 for the user interface. It is completely free, and it will be open source in the future.
